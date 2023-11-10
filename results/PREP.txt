@@ -1,0 +1,83 @@
+291500
+РАЗ	NOUN,inan,masc sing,nomn
+РАЗА	NOUN,inan,masc sing,gen1
+РАЗУ	NOUN,inan,masc sing,datv
+РАЗ	NOUN,inan,masc sing,accs
+РАЗОМ	NOUN,inan,masc sing,ablt
+РАЗЕ	NOUN,inan,masc sing,loct
+РАЗЫ	NOUN,inan,masc plur,nomn
+РАЗ	NOUN,inan,masc plur,gent
+РАЗАМ	NOUN,inan,masc plur,datv
+РАЗЫ	NOUN,inan,masc plur,accs
+РАЗАМИ	NOUN,inan,masc plur,ablt
+РАЗАХ	NOUN,inan,masc plur,loct
+РАЗУ	NOUN,inan,masc sing,gen2
+
+37409
+В	PREP 
+ВО	PREP Vpre
+
+311151
+С	PREP 
+СО	PREP Vpre
+
+241240
+ПО	PREP
+
+127875
+КАЖДЫЙ	ADJF,Subx,Apro masc,sing,nomn
+КАЖДОГО	ADJF,Subx,Apro masc,sing,gent
+КАЖДОМУ	ADJF,Subx,Apro masc,sing,datv
+КАЖДЫЙ	ADJF,Subx,Apro inan,masc,sing,accs
+КАЖДОГО	ADJF,Subx,Apro anim,masc,sing,accs
+КАЖДЫМ	ADJF,Subx,Apro masc,sing,ablt
+КАЖДОМ	ADJF,Subx,Apro masc,sing,loct
+КАЖДАЯ	ADJF,Subx,Apro femn,sing,nomn
+КАЖДОЙ	ADJF,Subx,Apro femn,sing,gent
+КАЖДОЙ	ADJF,Subx,Apro femn,sing,datv
+КАЖДУЮ	ADJF,Subx,Apro femn,sing,accs
+КАЖДОЙ	ADJF,Subx,Apro femn,sing,ablt
+КАЖДОЙ	ADJF,Subx,Apro femn,sing,loct
+КАЖДОЕ	ADJF,Subx,Apro neut,sing,nomn
+КАЖДОГО	ADJF,Subx,Apro neut,sing,gent
+КАЖДОМУ	ADJF,Subx,Apro neut,sing,datv
+КАЖДОЕ	ADJF,Subx,Apro neut,sing,accs
+КАЖДЫМ	ADJF,Subx,Apro neut,sing,ablt
+КАЖДОМ	ADJF,Subx,Apro neut,sing,loct
+КАЖДЫЕ	ADJF,Subx,Apro plur,nomn
+КАЖДЫХ	ADJF,Subx,Apro plur,gent
+КАЖДЫМ	ADJF,Subx,Apro plur,datv
+КАЖДЫЕ	ADJF,Subx,Apro inan,plur,accs
+КАЖДЫХ	ADJF,Subx,Apro anim,plur,accs
+КАЖДЫМИ	ADJF,Subx,Apro plur,ablt
+КАЖДЫХ	ADJF,Subx,Apro plur,loct
+КАЖДОЮ	ADJF,Subx,Apro femn,sing,ablt,V-oy
+
+261565
+ПОСЛЕДНИЙ	ADJF masc,sing,nomn
+ПОСЛЕДНЕГО	ADJF masc,sing,gent
+ПОСЛЕДНЕМУ	ADJF masc,sing,datv
+ПОСЛЕДНЕГО	ADJF anim,masc,sing,accs
+ПОСЛЕДНИЙ	ADJF inan,masc,sing,accs
+ПОСЛЕДНИМ	ADJF masc,sing,ablt
+ПОСЛЕДНЕМ	ADJF masc,sing,loct
+ПОСЛЕДНЯЯ	ADJF femn,sing,nomn
+ПОСЛЕДНЕЙ	ADJF femn,sing,gent
+ПОСЛЕДНЕЙ	ADJF femn,sing,datv
+ПОСЛЕДНЮЮ	ADJF femn,sing,accs
+ПОСЛЕДНЕЙ	ADJF femn,sing,ablt
+ПОСЛЕДНЕЮ	ADJF femn,sing,ablt,V-ey
+ПОСЛЕДНЕЙ	ADJF femn,sing,loct
+ПОСЛЕДНЕЕ	ADJF neut,sing,nomn
+ПОСЛЕДНЕГО	ADJF neut,sing,gent
+ПОСЛЕДНЕМУ	ADJF neut,sing,datv
+ПОСЛЕДНЕЕ	ADJF neut,sing,accs
+ПОСЛЕДНИМ	ADJF neut,sing,ablt
+ПОСЛЕДНЕМ	ADJF neut,sing,loct
+ПОСЛЕДНИЕ	ADJF plur,nomn
+ПОСЛЕДНИХ	ADJF plur,gent
+ПОСЛЕДНИМ	ADJF plur,datv
+ПОСЛЕДНИХ	ADJF anim,plur,accs
+ПОСЛЕДНИЕ	ADJF inan,plur,accs
+ПОСЛЕДНИМИ	ADJF plur,ablt
+ПОСЛЕДНИХ	ADJF plur,loct

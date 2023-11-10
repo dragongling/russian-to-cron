@@ -1,0 +1,51 @@
+42035
+ВЕСНА	NOUN,inan,femn sing,nomn
+ВЕСНЫ	NOUN,inan,femn sing,gent
+ВЕСНЕ	NOUN,inan,femn sing,datv
+ВЕСНУ	NOUN,inan,femn sing,accs
+ВЕСНОЙ	NOUN,inan,femn sing,ablt
+ВЕСНОЮ	NOUN,inan,femn sing,ablt,V-oy
+ВЕСНЕ	NOUN,inan,femn sing,loct
+ВЁСНЫ	NOUN,inan,femn plur,nomn
+ВЁСЕН	NOUN,inan,femn plur,gent
+ВЁСНАМ	NOUN,inan,femn plur,datv
+ВЁСНЫ	NOUN,inan,femn plur,accs
+ВЁСНАМИ	NOUN,inan,femn plur,ablt
+ВЁСНАХ	NOUN,inan,femn plur,loct
+
+148693
+ЛЕТО	NOUN,inan,neut,Sgtm sing,nomn
+ЛЕТА	NOUN,inan,neut,Sgtm sing,gent
+ЛЕТУ	NOUN,inan,neut,Sgtm sing,datv
+ЛЕТО	NOUN,inan,neut,Sgtm sing,accs
+ЛЕТОМ	NOUN,inan,neut,Sgtm sing,ablt
+ЛЕТЕ	NOUN,inan,neut,Sgtm sing,loct
+
+209823
+ОСЕНЬ	NOUN,inan,femn sing,nomn
+ОСЕНИ	NOUN,inan,femn sing,gent
+ОСЕНИ	NOUN,inan,femn sing,datv
+ОСЕНЬ	NOUN,inan,femn sing,accs
+ОСЕНЬЮ	NOUN,inan,femn sing,ablt
+ОСЕНИ	NOUN,inan,femn sing,loct
+ОСЕНИ	NOUN,inan,femn plur,nomn
+ОСЕНЕЙ	NOUN,inan,femn plur,gent
+ОСЕНЯМ	NOUN,inan,femn plur,datv
+ОСЕНИ	NOUN,inan,femn plur,accs
+ОСЕНЯМИ	NOUN,inan,femn plur,ablt
+ОСЕНЯХ	NOUN,inan,femn plur,loct
+
+115412
+ЗИМА	NOUN,inan,femn sing,nomn
+ЗИМЫ	NOUN,inan,femn sing,gent
+ЗИМЕ	NOUN,inan,femn sing,datv
+ЗИМУ	NOUN,inan,femn sing,accs
+ЗИМОЙ	NOUN,inan,femn sing,ablt
+ЗИМОЮ	NOUN,inan,femn sing,ablt,V-oy
+ЗИМЕ	NOUN,inan,femn sing,loct
+ЗИМЫ	NOUN,inan,femn plur,nomn
+ЗИМ	NOUN,inan,femn plur,gent
+ЗИМАМ	NOUN,inan,femn plur,datv
+ЗИМЫ	NOUN,inan,femn plur,accs
+ЗИМАМИ	NOUN,inan,femn plur,ablt
+ЗИМАХ	NOUN,inan,femn plur,loct

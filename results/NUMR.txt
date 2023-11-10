@@ -1,0 +1,477 @@
+51337
+ВОСЕМНАДЦАТЬ	NUMR nomn
+ВОСЕМНАДЦАТИ	NUMR gent
+ВОСЕМНАДЦАТИ	NUMR datv
+ВОСЕМНАДЦАТЬ	NUMR accs
+ВОСЕМНАДЦАТЬЮ	NUMR ablt
+ВОСЕМНАДЦАТИ	NUMR loct
+
+51338
+ВОСЕМЬ	NUMR nomn
+ВОСЬМИ	NUMR gent
+ВОСЬМИ	NUMR datv
+ВОСЕМЬ	NUMR accs
+ВОСЕМЬЮ	NUMR ablt
+ВОСЬМЬЮ	NUMR ablt,Infr
+ВОСЬМИ	NUMR loct
+
+51339
+ВОСЕМЬДЕСЯТ	NUMR nomn
+ВОСЬМИДЕСЯТИ	NUMR gent
+ВОСЬМИДЕСЯТИ	NUMR datv
+ВОСЕМЬДЕСЯТ	NUMR accs
+ВОСЕМЬЮДЕСЯТЬЮ	NUMR ablt
+ВОСЬМЬЮДЕСЯТЬЮ	NUMR ablt,Infr
+ВОСЬМИДЕСЯТИ	NUMR loct
+
+51340
+ВОСЕМЬСОТ	NUMR nomn
+ВОСЬМИСОТ	NUMR gent
+ВОСЬМИСТАМ	NUMR datv
+ВОСЕМЬСОТ	NUMR accs
+ВОСЕМЬЮСТАМИ	NUMR ablt
+ВОСЬМИСТАХ	NUMR loct
+
+52137
+ВОСЬМЕРО	NUMR,Coll nomn
+ВОСЬМЕРЫХ	NUMR,Coll gent
+ВОСЬМЕРЫМ	NUMR,Coll datv
+ВОСЬМЕРО	NUMR,Coll inan,accs
+ВОСЬМЕРЫХ	NUMR,Coll anim,accs
+ВОСЬМЕРЫМИ	NUMR,Coll ablt
+ВОСЬМЕРЫХ	NUMR,Coll loct
+
+78668
+ДВА	NUMR masc,nomn
+ДВУХ	NUMR gent
+ДВУМ	NUMR datv
+ДВА	NUMR inan,masc,accs
+ДВУХ	NUMR anim,accs
+ДВУМЯ	NUMR ablt
+ДВУХ	NUMR loct
+ДВЕ	NUMR femn,nomn
+ДВЕ	NUMR inan,femn,accs
+ДВА	NUMR neut,nomn
+ДВА	NUMR inan,neut,accs
+
+78791
+ДВАДЦАТЬ	NUMR nomn
+ДВАДЦАТИ	NUMR gent
+ДВАДЦАТИ	NUMR datv
+ДВАДЦАТЬ	NUMR accs
+ДВАДЦАТЬЮ	NUMR ablt
+ДВАДЦАТИ	NUMR loct
+
+78804
+ДВЕНАДЦАТЬ	NUMR nomn
+ДВЕНАДЦАТИ	NUMR gent
+ДВЕНАДЦАТИ	NUMR datv
+ДВЕНАДЦАТЬ	NUMR accs
+ДВЕНАДЦАТЬЮ	NUMR ablt
+ДВЕНАДЦАТИ	NUMR loct
+
+78811
+ДВЕСТИ	NUMR nomn
+ДВУХСОТ	NUMR gent
+ДВУМСТАМ	NUMR datv
+ДВЕСТИ	NUMR accs
+ДВУМЯСТАМИ	NUMR ablt
+ДВУХСТАХ	NUMR loct
+
+78866
+ДВОЕ	NUMR,Coll nomn
+ДВОИХ	NUMR,Coll gent
+ДВОИМ	NUMR,Coll datv
+ДВОЕ	NUMR,Coll inan,accs
+ДВОИХ	NUMR,Coll anim,accs
+ДВОИМИ	NUMR,Coll ablt
+ДВОИХ	NUMR,Coll loct
+
+79409
+ДЕВЯНОСТО	NUMR nomn
+ДЕВЯНОСТА	NUMR gent
+ДЕВЯНОСТА	NUMR datv
+ДЕВЯНОСТО	NUMR accs
+ДЕВЯНОСТА	NUMR ablt
+ДЕВЯНОСТА	NUMR loct
+
+79500
+ДЕВЯТЕРО	NUMR,Coll nomn
+ДЕВЯТЕРЫХ	NUMR,Coll gent
+ДЕВЯТЕРЫМ	NUMR,Coll datv
+ДЕВЯТЕРО	NUMR,Coll inan,accs
+ДЕВЯТЕРЫХ	NUMR,Coll anim,accs
+ДЕВЯТЕРЫМИ	NUMR,Coll ablt
+ДЕВЯТЕРЫХ	NUMR,Coll loct
+
+79526
+ДЕВЯТНАДЦАТЬ	NUMR nomn
+ДЕВЯТНАДЦАТИ	NUMR gent
+ДЕВЯТНАДЦАТИ	NUMR datv
+ДЕВЯТНАДЦАТЬ	NUMR accs
+ДЕВЯТНАДЦАТЬЮ	NUMR ablt
+ДЕВЯТНАДЦАТИ	NUMR loct
+
+79531
+ДЕВЯТЬ	NUMR nomn
+ДЕВЯТИ	NUMR gent
+ДЕВЯТИ	NUMR datv
+ДЕВЯТЬ	NUMR accs
+ДЕВЯТЬЮ	NUMR ablt
+ДЕВЯТИ	NUMR loct
+
+79532
+ДЕВЯТЬСОТ	NUMR nomn
+ДЕВЯТИСОТ	NUMR gent
+ДЕВЯТИСТАМ	NUMR datv
+ДЕВЯТЬСОТ	NUMR accs
+ДЕВЯТЬЮСТАМИ	NUMR ablt
+ДЕВЯТИСТАХ	NUMR loct
+
+82077
+ДЕСЯТЕРО	NUMR,Coll nomn
+ДЕСЯТЕРЫХ	NUMR,Coll gent
+ДЕСЯТЕРЫМ	NUMR,Coll datv
+ДЕСЯТЕРО	NUMR,Coll inan,accs
+ДЕСЯТЕРЫХ	NUMR,Coll anim,accs
+ДЕСЯТЕРЫМИ	NUMR,Coll ablt
+ДЕСЯТЕРЫХ	NUMR,Coll loct
+
+82114
+ДЕСЯТЬ	NUMR nomn
+ДЕСЯТИ	NUMR gent
+ДЕСЯТИ	NUMR datv
+ДЕСЯТЬ	NUMR accs
+ДЕСЯТЬЮ	NUMR ablt
+ДЕСЯТИ	NUMR loct
+
+188126
+НЕСКОЛЬКО	NUMR nomn
+НЕСКОЛЬКИХ	NUMR gent
+НЕСКОЛЬКИМ	NUMR datv
+НЕСКОЛЬКУ	NUMR datv,Infr
+НЕСКОЛЬКИХ	NUMR anim,accs
+НЕСКОЛЬКО	NUMR inan,accs
+НЕСКОЛЬКИМИ	NUMR ablt
+НЕСКОЛЬКИХ	NUMR loct
+НЕСКОЛЬКО	NUMR anim,accs,Infr
+
+191126
+НИСКОЛЕЧКО	NUMR nomn
+НИСКОЛЕЧКО	NUMR accs
+
+191128
+НИСКОЛЬКО	NUMR nomn
+НИСКОЛЬКО	NUMR accs
+
+193002
+ОБА	NUMR masc,nomn
+ОБОИХ	NUMR masc,gent
+ОБОИМ	NUMR masc,datv
+ОБА	NUMR inan,masc,accs
+ОБОИХ	NUMR anim,masc,accs
+ОБОИМИ	NUMR masc,ablt
+ОБОИХ	NUMR masc,loct
+ОБЕ	NUMR femn,nomn
+ОБЕИХ	NUMR femn,gent
+ОБЕИМ	NUMR femn,datv
+ОБЕ	NUMR inan,femn,accs
+ОБЕИХ	NUMR anim,femn,accs
+ОБЕИМИ	NUMR femn,ablt
+ОБЕИХ	NUMR femn,loct
+ОБА	NUMR neut,nomn
+ОБОИХ	NUMR neut,gent
+ОБОИМ	NUMR neut,datv
+ОБА	NUMR inan,neut,accs
+ОБОИМИ	NUMR neut,ablt
+ОБОИХ	NUMR neut,loct
+ОБОЕГО	NUMR masc,gent,Infr
+
+203338
+ОДИННАДЦАТЬ	NUMR nomn
+ОДИННАДЦАТИ	NUMR gent
+ОДИННАДЦАТИ	NUMR datv
+ОДИННАДЦАТЬ	NUMR accs
+ОДИННАДЦАТЬЮ	NUMR ablt
+ОДИННАДЦАТИ	NUMR loct
+
+209807
+ОСЕМЬДЕСЯТ	NUMR,Arch nomn
+ОСЬМИДЕСЯТИ	NUMR,Arch gent
+ОСЬМИДЕСЯТИ	NUMR,Arch datv
+ОСЕМЬДЕСЯТ	NUMR,Arch accs
+ОСЕМЬЮДЕСЯТЬЮ	NUMR,Arch ablt
+ОСЬМЬЮДЕСЯТЬЮ	NUMR,Arch ablt,Infr
+ОСЬМИДЕСЯТИ	NUMR,Arch loct
+
+256572
+ПОЛТОРА	NUMR masc,nomn
+ПОЛУТОРА	NUMR gent
+ПОЛУТОРА	NUMR datv
+ПОЛТОРА	NUMR masc,accs
+ПОЛУТОРА	NUMR ablt
+ПОЛУТОРА	NUMR loct
+ПОЛТОРЫ	NUMR femn,nomn
+ПОЛТОРЫ	NUMR femn,accs
+ПОЛТОРА	NUMR neut,nomn
+ПОЛТОРА	NUMR neut,accs
+
+256576
+ПОЛТОРАСТА	NUMR nomn
+ПОЛУТОРАСТА	NUMR gent
+ПОЛУТОРАСТА	NUMR datv
+ПОЛТОРАСТА	NUMR accs
+ПОЛУТОРАСТА	NUMR ablt
+ПОЛУТОРАСТА	NUMR loct
+
+290310
+ПЯТЕРО	NUMR,Coll nomn
+ПЯТЕРЫХ	NUMR,Coll gent
+ПЯТЕРЫМ	NUMR,Coll datv
+ПЯТЕРО	NUMR,Coll inan,accs
+ПЯТЕРЫХ	NUMR,Coll anim,accs
+ПЯТЕРЫМИ	NUMR,Coll ablt
+ПЯТЕРЫХ	NUMR,Coll loct
+
+290374
+ПЯТНАДЦАТЬ	NUMR nomn
+ПЯТНАДЦАТИ	NUMR gent
+ПЯТНАДЦАТИ	NUMR datv
+ПЯТНАДЦАТЬ	NUMR accs
+ПЯТНАДЦАТЬЮ	NUMR ablt
+ПЯТНАДЦАТИ	NUMR loct
+
+290440
+ПЯТЬ	NUMR nomn
+ПЯТИ	NUMR gent
+ПЯТИ	NUMR datv
+ПЯТЬ	NUMR accs
+ПЯТЬЮ	NUMR ablt
+ПЯТИ	NUMR loct
+
+290441
+ПЯТЬДЕСЯТ	NUMR nomn
+ПЯТИДЕСЯТИ	NUMR gent
+ПЯТИДЕСЯТИ	NUMR datv
+ПЯТЬДЕСЯТ	NUMR accs
+ПЯТЬЮДЕСЯТЬЮ	NUMR ablt
+ПЯТИДЕСЯТИ	NUMR loct
+
+290442
+ПЯТЬСОТ	NUMR nomn
+ПЯТИСОТ	NUMR gent
+ПЯТИСТАМ	NUMR datv
+ПЯТЬСОТ	NUMR accs
+ПЯТЬЮСТАМИ	NUMR ablt
+ПЯТИСТАХ	NUMR loct
+
+318573
+СЕМЕРО	NUMR,Coll nomn
+СЕМЕРЫХ	NUMR,Coll gent
+СЕМЕРЫМ	NUMR,Coll datv
+СЕМЕРО	NUMR,Coll inan,accs
+СЕМЕРЫХ	NUMR,Coll anim,accs
+СЕМЕРЫМИ	NUMR,Coll ablt
+СЕМЕРЫХ	NUMR,Coll loct
+
+318648
+СЕМНАДЦАТЬ	NUMR nomn
+СЕМНАДЦАТИ	NUMR gent
+СЕМНАДЦАТИ	NUMR datv
+СЕМНАДЦАТЬ	NUMR accs
+СЕМНАДЦАТЬЮ	NUMR ablt
+СЕМНАДЦАТИ	NUMR loct
+
+318656
+СЕМЬ	NUMR nomn
+СЕМИ	NUMR gent
+СЕМИ	NUMR datv
+СЕМЬ	NUMR accs
+СЕМЬЮ	NUMR ablt
+СЕМИ	NUMR loct
+
+318657
+СЕМЬДЕСЯТ	NUMR nomn
+СЕМИДЕСЯТИ	NUMR gent
+СЕМИДЕСЯТИ	NUMR datv
+СЕМЬДЕСЯТ	NUMR accs
+СЕМЬЮДЕСЯТЬЮ	NUMR ablt
+СЕМИДЕСЯТИ	NUMR loct
+
+318658
+СЕМЬСОТ	NUMR nomn
+СЕМИСОТ	NUMR gent
+СЕМИСТАМ	NUMR datv
+СЕМЬСОТ	NUMR accs
+СЕМЬЮСТАМИ	NUMR ablt
+СЕМИСТАХ	NUMR loct
+
+322837
+СКОЛЕЧКО	NUMR nomn
+СКОЛЕЧКО	NUMR accs
+
+322911
+СКОЛЬКО	NUMR nomn
+СКОЛЬКИХ	NUMR gent
+СКОЛЬКИМ	NUMR datv
+СКОЛЬКУ	NUMR datv,Infr
+СКОЛЬКИХ	NUMR anim,accs
+СКОЛЬКО	NUMR inan,accs
+СКОЛЬКИМИ	NUMR ablt
+СКОЛЬКИХ	NUMR loct
+СКОЛЬКИ	NUMR gent,Infr
+
+330062
+СОРОК	NUMR nomn
+СОРОКА	NUMR gent
+СОРОКА	NUMR datv
+СОРОК	NUMR accs
+СОРОКА	NUMR ablt
+СОРОКА	NUMR loct
+
+336375
+СТО	NUMR nomn
+СТА	NUMR gent
+СТА	NUMR datv
+СТО	NUMR accs
+СТА	NUMR ablt
+СТА	NUMR loct
+
+336573
+СТОЛЕЧКО	NUMR nomn
+СТОЛЕЧКО	NUMR accs
+
+336671
+СТОЛЬКО	NUMR nomn
+СТОЛЬКИХ	NUMR gent
+СТОЛЬКИМ	NUMR datv
+СТОЛЬКУ	NUMR datv,Infr
+СТОЛЬКИХ	NUMR anim,accs
+СТОЛЬКО	NUMR inan,accs
+СТОЛЬКИМИ	NUMR ablt
+СТОЛЬКИХ	NUMR loct
+
+349973
+ТРИ	NUMR nomn
+ТРЁХ	NUMR gent
+ТРЁМ	NUMR datv
+ТРЁХ	NUMR anim,accs
+ТРИ	NUMR inan,accs
+ТРЕМЯ	NUMR ablt
+ТРЁХ	NUMR loct
+
+350037
+ТРИДЕВЯТЬ	NUMR nomn
+ТРИДЕВЯТИ	NUMR gent
+ТРИДЕВЯТИ	NUMR datv
+ТРИДЕВЯТЬ	NUMR accs
+ТРИДЕВЯТЬЮ	NUMR ablt
+ТРИДЕВЯТИ	NUMR loct
+
+350058
+ТРИДЦАТЬ	NUMR nomn
+ТРИДЦАТИ	NUMR gent
+ТРИДЦАТИ	NUMR datv
+ТРИДЦАТЬ	NUMR accs
+ТРИДЦАТЬЮ	NUMR ablt
+ТРИДЦАТИ	NUMR loct
+
+350141
+ТРИНАДЦАТЬ	NUMR nomn
+ТРИНАДЦАТИ	NUMR gent
+ТРИНАДЦАТИ	NUMR datv
+ТРИНАДЦАТЬ	NUMR accs
+ТРИНАДЦАТЬЮ	NUMR ablt
+ТРИНАДЦАТИ	NUMR loct
+
+350198
+ТРИСТА	NUMR nomn
+ТРЁХСОТ	NUMR gent
+ТРЁМСТАМ	NUMR datv
+ТРИСТА	NUMR accs
+ТРЕМЯСТАМИ	NUMR ablt
+ТРЁХСТАХ	NUMR loct
+
+350318
+ТРОЕ	NUMR,Coll nomn
+ТРОИХ	NUMR,Coll gent
+ТРОИМ	NUMR,Coll datv
+ТРОЕ	NUMR,Coll inan,accs
+ТРОИХ	NUMR,Coll anim,accs
+ТРОИМИ	NUMR,Coll ablt
+ТРОИХ	NUMR,Coll loct
+
+376107
+ЧЕТВЕРО	NUMR,Coll nomn
+ЧЕТВЕРЫХ	NUMR,Coll gent
+ЧЕТВЕРЫМ	NUMR,Coll datv
+ЧЕТВЕРО	NUMR,Coll inan,accs
+ЧЕТВЕРЫХ	NUMR,Coll anim,accs
+ЧЕТВЕРЫМИ	NUMR,Coll ablt
+ЧЕТВЕРЫХ	NUMR,Coll loct
+
+376181
+ЧЕТЫРЕ	NUMR nomn
+ЧЕТЫРЁХ	NUMR gent
+ЧЕТЫРЁМ	NUMR datv
+ЧЕТЫРЕ	NUMR inan,accs
+ЧЕТЫРЁХ	NUMR anim,accs
+ЧЕТЫРЬМЯ	NUMR ablt
+ЧЕТЫРЁХ	NUMR loct
+
+376183
+ЧЕТЫРЕСТА	NUMR nomn
+ЧЕТЫРЁХСОТ	NUMR gent
+ЧЕТЫРЁМСТАМ	NUMR datv
+ЧЕТЫРЕСТА	NUMR accs
+ЧЕТЫРЬМЯСТАМИ	NUMR ablt
+ЧЕТЫРЁХСТАХ	NUMR loct
+
+376196
+ЧЕТЫРНАДЦАТЬ	NUMR nomn
+ЧЕТЫРНАДЦАТИ	NUMR gent
+ЧЕТЫРНАДЦАТИ	NUMR datv
+ЧЕТЫРНАДЦАТЬ	NUMR accs
+ЧЕТЫРНАДЦАТЬЮ	NUMR ablt
+ЧЕТЫРНАДЦАТИ	NUMR loct
+
+379383
+ШЕСТЕРО	NUMR,Coll nomn
+ШЕСТЕРЫХ	NUMR,Coll gent
+ШЕСТЕРЫМ	NUMR,Coll datv
+ШЕСТЕРО	NUMR,Coll inan,accs
+ШЕСТЕРЫХ	NUMR,Coll anim,accs
+ШЕСТЕРЫМИ	NUMR,Coll ablt
+ШЕСТЕРЫХ	NUMR,Coll loct
+
+379408
+ШЕСТНАДЦАТЬ	NUMR nomn
+ШЕСТНАДЦАТИ	NUMR gent
+ШЕСТНАДЦАТИ	NUMR datv
+ШЕСТНАДЦАТЬ	NUMR accs
+ШЕСТНАДЦАТЬЮ	NUMR ablt
+ШЕСТНАДЦАТИ	NUMR loct
+
+379421
+ШЕСТЬ	NUMR nomn
+ШЕСТИ	NUMR gent
+ШЕСТИ	NUMR datv
+ШЕСТЬ	NUMR accs
+ШЕСТЬЮ	NUMR ablt
+ШЕСТИ	NUMR loct
+
+379422
+ШЕСТЬДЕСЯТ	NUMR nomn
+ШЕСТИДЕСЯТИ	NUMR gent
+ШЕСТИДЕСЯТИ	NUMR datv
+ШЕСТЬДЕСЯТ	NUMR accs
+ШЕСТЬЮДЕСЯТЬЮ	NUMR ablt
+ШЕСТИДЕСЯТИ	NUMR loct
+
+379423
+ШЕСТЬСОТ	NUMR nomn
+ШЕСТИСОТ	NUMR gent
+ШЕСТИСТАМ	NUMR datv
+ШЕСТЬСОТ	NUMR accs
+ШЕСТЬЮСТАМИ	NUMR ablt
+ШЕСТИСТАХ	NUMR loct

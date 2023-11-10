@@ -1,0 +1,112 @@
+258364
+ПОНЕДЕЛЬНИК	NOUN,inan,masc sing,nomn
+ПОНЕДЕЛЬНИКА	NOUN,inan,masc sing,gent
+ПОНЕДЕЛЬНИКУ	NOUN,inan,masc sing,datv
+ПОНЕДЕЛЬНИК	NOUN,inan,masc sing,accs
+ПОНЕДЕЛЬНИКОМ	NOUN,inan,masc sing,ablt
+ПОНЕДЕЛЬНИКЕ	NOUN,inan,masc sing,loct
+ПОНЕДЕЛЬНИКИ	NOUN,inan,masc plur,nomn
+ПОНЕДЕЛЬНИКОВ	NOUN,inan,masc plur,gent
+ПОНЕДЕЛЬНИКАМ	NOUN,inan,masc plur,datv
+ПОНЕДЕЛЬНИКИ	NOUN,inan,masc plur,accs
+ПОНЕДЕЛЬНИКАМИ	NOUN,inan,masc plur,ablt
+ПОНЕДЕЛЬНИКАХ	NOUN,inan,masc plur,loct
+
+55031
+ВТОРНИК	NOUN,inan,masc sing,nomn
+ВТОРНИКА	NOUN,inan,masc sing,gent
+ВТОРНИКУ	NOUN,inan,masc sing,datv
+ВТОРНИК	NOUN,inan,masc sing,accs
+ВТОРНИКОМ	NOUN,inan,masc sing,ablt
+ВТОРНИКЕ	NOUN,inan,masc sing,loct
+ВТОРНИКИ	NOUN,inan,masc plur,nomn
+ВТОРНИКОВ	NOUN,inan,masc plur,gent
+ВТОРНИКАМ	NOUN,inan,masc plur,datv
+ВТОРНИКИ	NOUN,inan,masc plur,accs
+ВТОРНИКАМИ	NOUN,inan,masc plur,ablt
+ВТОРНИКАХ	NOUN,inan,masc plur,loct
+
+333471
+СРЕДА	NOUN,inan,femn sing,nomn
+СРЕДЫ	NOUN,inan,femn sing,gent
+СРЕДЕ	NOUN,inan,femn sing,datv
+СРЕДУ	NOUN,inan,femn sing,accs
+СРЕДОЙ	NOUN,inan,femn sing,ablt
+СРЕДОЮ	NOUN,inan,femn sing,ablt,V-oy
+СРЕДЕ	NOUN,inan,femn sing,loct
+СРЕДЫ	NOUN,inan,femn plur,nomn
+СРЕД	NOUN,inan,femn plur,gent
+СРЕДАМ	NOUN,inan,femn plur,datv
+СРЕДЫ	NOUN,inan,femn plur,accs
+СРЕДАМИ	NOUN,inan,femn plur,ablt
+СРЕДАХ	NOUN,inan,femn plur,loct
+
+376075
+ЧЕТВЕРГ	NOUN,inan,masc sing,nomn
+ЧЕТВЕРГА	NOUN,inan,masc sing,gent
+ЧЕТВЕРГУ	NOUN,inan,masc sing,datv
+ЧЕТВЕРГ	NOUN,inan,masc sing,accs
+ЧЕТВЕРГОМ	NOUN,inan,masc sing,ablt
+ЧЕТВЕРГЕ	NOUN,inan,masc sing,loct
+ЧЕТВЕРГИ	NOUN,inan,masc plur,nomn
+ЧЕТВЕРГОВ	NOUN,inan,masc plur,gent
+ЧЕТВЕРГАМ	NOUN,inan,masc plur,datv
+ЧЕТВЕРГИ	NOUN,inan,masc plur,accs
+ЧЕТВЕРГАМИ	NOUN,inan,masc plur,ablt
+ЧЕТВЕРГАХ	NOUN,inan,masc plur,loct
+
+290408
+ПЯТНИЦА	NOUN,inan,femn sing,nomn
+ПЯТНИЦЫ	NOUN,inan,femn sing,gent
+ПЯТНИЦЕ	NOUN,inan,femn sing,datv
+ПЯТНИЦУ	NOUN,inan,femn sing,accs
+ПЯТНИЦЕЙ	NOUN,inan,femn sing,ablt
+ПЯТНИЦЕЮ	NOUN,inan,femn sing,ablt,V-ey
+ПЯТНИЦЕ	NOUN,inan,femn sing,loct
+ПЯТНИЦЫ	NOUN,inan,femn plur,nomn
+ПЯТНИЦ	NOUN,inan,femn plur,gent
+ПЯТНИЦАМ	NOUN,inan,femn plur,datv
+ПЯТНИЦЫ	NOUN,inan,femn plur,accs
+ПЯТНИЦАМИ	NOUN,inan,femn plur,ablt
+ПЯТНИЦАХ	NOUN,inan,femn plur,loct
+
+338556
+СУББОТА	NOUN,inan,femn sing,nomn
+СУББОТЫ	NOUN,inan,femn sing,gent
+СУББОТЕ	NOUN,inan,femn sing,datv
+СУББОТУ	NOUN,inan,femn sing,accs
+СУББОТОЙ	NOUN,inan,femn sing,ablt
+СУББОТОЮ	NOUN,inan,femn sing,ablt,V-oy
+СУББОТЕ	NOUN,inan,femn sing,loct
+СУББОТЫ	NOUN,inan,femn plur,nomn
+СУББОТ	NOUN,inan,femn plur,gent
+СУББОТАМ	NOUN,inan,femn plur,datv
+СУББОТЫ	NOUN,inan,femn plur,accs
+СУББОТАМИ	NOUN,inan,femn plur,ablt
+СУББОТАХ	NOUN,inan,femn plur,loct
+
+51393
+ВОСКРЕСЕНИЕ	NOUN,inan,neut sing,nomn
+ВОСКРЕСЕНЬЕ	NOUN,inan,neut sing,nomn,V-be
+ВОСКРЕСЕНИЯ	NOUN,inan,neut sing,gent
+ВОСКРЕСЕНЬЯ	NOUN,inan,neut sing,gent,V-be
+ВОСКРЕСЕНИЮ	NOUN,inan,neut sing,datv
+ВОСКРЕСЕНЬЮ	NOUN,inan,neut sing,datv,V-be
+ВОСКРЕСЕНИЕ	NOUN,inan,neut sing,accs
+ВОСКРЕСЕНЬЕ	NOUN,inan,neut sing,accs,V-be
+ВОСКРЕСЕНИЕМ	NOUN,inan,neut sing,ablt
+ВОСКРЕСЕНЬЕМ	NOUN,inan,neut sing,ablt,V-be
+ВОСКРЕСЕНИИ	NOUN,inan,neut sing,loct
+ВОСКРЕСЕНЬЕ	NOUN,inan,neut sing,loct,V-be
+ВОСКРЕСЕНЬИ	NOUN,inan,neut sing,loct,V-be,V-bi
+ВОСКРЕСЕНИЯ	NOUN,inan,neut plur,nomn
+ВОСКРЕСЕНЬЯ	NOUN,inan,neut plur,nomn,V-be
+ВОСКРЕСЕНИЙ	NOUN,inan,neut plur,gent
+ВОСКРЕСЕНИЯМ	NOUN,inan,neut plur,datv
+ВОСКРЕСЕНЬЯМ	NOUN,inan,neut plur,datv,V-be
+ВОСКРЕСЕНИЯ	NOUN,inan,neut plur,accs
+ВОСКРЕСЕНЬЯ	NOUN,inan,neut plur,accs,V-be
+ВОСКРЕСЕНИЯМИ	NOUN,inan,neut plur,ablt
+ВОСКРЕСЕНЬЯМИ	NOUN,inan,neut plur,ablt,V-be
+ВОСКРЕСЕНИЯХ	NOUN,inan,neut plur,loct
+ВОСКРЕСЕНЬЯХ	NOUN,inan,neut plur,loct,V-be

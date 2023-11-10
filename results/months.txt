@@ -1,0 +1,161 @@
+387905
+ЯНВАРЬ	NOUN,inan,masc sing,nomn
+ЯНВАРЯ	NOUN,inan,masc sing,gent
+ЯНВАРЮ	NOUN,inan,masc sing,datv
+ЯНВАРЬ	NOUN,inan,masc sing,accs
+ЯНВАРЁМ	NOUN,inan,masc sing,ablt
+ЯНВАРЕ	NOUN,inan,masc sing,loct
+ЯНВАРИ	NOUN,inan,masc plur,nomn
+ЯНВАРЕЙ	NOUN,inan,masc plur,gent
+ЯНВАРЯМ	NOUN,inan,masc plur,datv
+ЯНВАРИ	NOUN,inan,masc plur,accs
+ЯНВАРЯМИ	NOUN,inan,masc plur,ablt
+ЯНВАРЯХ	NOUN,inan,masc plur,loct
+
+364920
+ФЕВРАЛЬ	NOUN,inan,masc sing,nomn
+ФЕВРАЛЯ	NOUN,inan,masc sing,gent
+ФЕВРАЛЮ	NOUN,inan,masc sing,datv
+ФЕВРАЛЬ	NOUN,inan,masc sing,accs
+ФЕВРАЛЁМ	NOUN,inan,masc sing,ablt
+ФЕВРАЛЕ	NOUN,inan,masc sing,loct
+ФЕВРАЛИ	NOUN,inan,masc plur,nomn
+ФЕВРАЛЕЙ	NOUN,inan,masc plur,gent
+ФЕВРАЛЯМ	NOUN,inan,masc plur,datv
+ФЕВРАЛИ	NOUN,inan,masc plur,accs
+ФЕВРАЛЯМИ	NOUN,inan,masc plur,ablt
+ФЕВРАЛЯХ	NOUN,inan,masc plur,loct
+
+155465
+МАРТ	NOUN,inan,masc sing,nomn
+МАРТА	NOUN,inan,masc sing,gent
+МАРТУ	NOUN,inan,masc sing,datv
+МАРТ	NOUN,inan,masc sing,accs
+МАРТОМ	NOUN,inan,masc sing,ablt
+МАРТЕ	NOUN,inan,masc sing,loct
+МАРТЫ	NOUN,inan,masc plur,nomn
+МАРТОВ	NOUN,inan,masc plur,gent
+МАРТАМ	NOUN,inan,masc plur,datv
+МАРТЫ	NOUN,inan,masc plur,accs
+МАРТАМИ	NOUN,inan,masc plur,ablt
+МАРТАХ	NOUN,inan,masc plur,loct
+
+15509
+АПРЕЛЬ	NOUN,inan,masc sing,nomn
+АПРЕЛЯ	NOUN,inan,masc sing,gent
+АПРЕЛЮ	NOUN,inan,masc sing,datv
+АПРЕЛЬ	NOUN,inan,masc sing,accs
+АПРЕЛЕМ	NOUN,inan,masc sing,ablt
+АПРЕЛЕ	NOUN,inan,masc sing,loct
+АПРЕЛИ	NOUN,inan,masc plur,nomn
+АПРЕЛЕЙ	NOUN,inan,masc plur,gent
+АПРЕЛЯМ	NOUN,inan,masc plur,datv
+АПРЕЛИ	NOUN,inan,masc plur,accs
+АПРЕЛЯМИ	NOUN,inan,masc plur,ablt
+АПРЕЛЯХ	NOUN,inan,masc plur,loct
+
+153142
+МАЙ	NOUN,inan,masc,Sgtm sing,nomn
+МАЯ	NOUN,inan,masc,Sgtm sing,gent
+МАЮ	NOUN,inan,masc,Sgtm sing,datv
+МАЙ	NOUN,inan,masc,Sgtm sing,accs
+МАЕМ	NOUN,inan,masc,Sgtm sing,ablt
+МАЕ	NOUN,inan,masc,Sgtm sing,loct
+
+127302
+ИЮНЬ	NOUN,inan,masc sing,nomn
+ИЮНЯ	NOUN,inan,masc sing,gent
+ИЮНЮ	NOUN,inan,masc sing,datv
+ИЮНЬ	NOUN,inan,masc sing,accs
+ИЮНЕМ	NOUN,inan,masc sing,ablt
+ИЮНЕ	NOUN,inan,masc sing,loct
+ИЮНИ	NOUN,inan,masc plur,nomn
+ИЮНЕЙ	NOUN,inan,masc plur,gent
+ИЮНЯМ	NOUN,inan,masc plur,datv
+ИЮНИ	NOUN,inan,masc plur,accs
+ИЮНЯМИ	NOUN,inan,masc plur,ablt
+ИЮНЯХ	NOUN,inan,masc plur,loct
+
+127299
+ИЮЛЬ	NOUN,inan,masc sing,nomn
+ИЮЛЯ	NOUN,inan,masc sing,gent
+ИЮЛЮ	NOUN,inan,masc sing,datv
+ИЮЛЬ	NOUN,inan,masc sing,accs
+ИЮЛЕМ	NOUN,inan,masc sing,ablt
+ИЮЛЕ	NOUN,inan,masc sing,loct
+ИЮЛИ	NOUN,inan,masc plur,nomn
+ИЮЛЕЙ	NOUN,inan,masc plur,gent
+ИЮЛЯМ	NOUN,inan,masc plur,datv
+ИЮЛИ	NOUN,inan,masc plur,accs
+ИЮЛЯМИ	NOUN,inan,masc plur,ablt
+ИЮЛЯХ	NOUN,inan,masc plur,loct
+
+390364
+АВГУСТ	NOUN,anim,masc,Name sing,nomn
+АВГУСТА	NOUN,anim,masc,Name sing,gent
+АВГУСТУ	NOUN,anim,masc,Name sing,datv
+АВГУСТА	NOUN,anim,masc,Name sing,accs
+АВГУСТОМ	NOUN,anim,masc,Name sing,ablt
+АВГУСТЕ	NOUN,anim,masc,Name sing,loct
+АВГУСТЫ	NOUN,anim,masc,Name plur,nomn
+АВГУСТОВ	NOUN,anim,masc,Name plur,gent
+АВГУСТАМ	NOUN,anim,masc,Name plur,datv
+АВГУСТОВ	NOUN,anim,masc,Name plur,accs
+АВГУСТАМИ	NOUN,anim,masc,Name plur,ablt
+АВГУСТАХ	NOUN,anim,masc,Name plur,loct
+
+318866
+СЕНТЯБРЬ	NOUN,inan,masc sing,nomn
+СЕНТЯБРЯ	NOUN,inan,masc sing,gent
+СЕНТЯБРЮ	NOUN,inan,masc sing,datv
+СЕНТЯБРЬ	NOUN,inan,masc sing,accs
+СЕНТЯБРЁМ	NOUN,inan,masc sing,ablt
+СЕНТЯБРЕ	NOUN,inan,masc sing,loct
+СЕНТЯБРИ	NOUN,inan,masc plur,nomn
+СЕНТЯБРЕЙ	NOUN,inan,masc plur,gent
+СЕНТЯБРЯМ	NOUN,inan,masc plur,datv
+СЕНТЯБРИ	NOUN,inan,masc plur,accs
+СЕНТЯБРЯМИ	NOUN,inan,masc plur,ablt
+СЕНТЯБРЯХ	NOUN,inan,masc plur,loct
+
+205725
+ОКТЯБРЬ	NOUN,inan,masc sing,nomn
+ОКТЯБРЯ	NOUN,inan,masc sing,gent
+ОКТЯБРЮ	NOUN,inan,masc sing,datv
+ОКТЯБРЬ	NOUN,inan,masc sing,accs
+ОКТЯБРЁМ	NOUN,inan,masc sing,ablt
+ОКТЯБРЕ	NOUN,inan,masc sing,loct
+ОКТЯБРИ	NOUN,inan,masc plur,nomn
+ОКТЯБРЕЙ	NOUN,inan,masc plur,gent
+ОКТЯБРЯМ	NOUN,inan,masc plur,datv
+ОКТЯБРИ	NOUN,inan,masc plur,accs
+ОКТЯБРЯМИ	NOUN,inan,masc plur,ablt
+ОКТЯБРЯХ	NOUN,inan,masc plur,loct
+
+192482
+НОЯБРЬ	NOUN,inan,masc sing,nomn
+НОЯБРЯ	NOUN,inan,masc sing,gent
+НОЯБРЮ	NOUN,inan,masc sing,datv
+НОЯБРЬ	NOUN,inan,masc sing,accs
+НОЯБРЁМ	NOUN,inan,masc sing,ablt
+НОЯБРЕ	NOUN,inan,masc sing,loct
+НОЯБРИ	NOUN,inan,masc plur,nomn
+НОЯБРЕЙ	NOUN,inan,masc plur,gent
+НОЯБРЯМ	NOUN,inan,masc plur,datv
+НОЯБРИ	NOUN,inan,masc plur,accs
+НОЯБРЯМИ	NOUN,inan,masc plur,ablt
+НОЯБРЯХ	NOUN,inan,masc plur,loct
+
+80133
+ДЕКАБРЬ	NOUN,inan,masc sing,nomn
+ДЕКАБРЯ	NOUN,inan,masc sing,gent
+ДЕКАБРЮ	NOUN,inan,masc sing,datv
+ДЕКАБРЬ	NOUN,inan,masc sing,accs
+ДЕКАБРЁМ	NOUN,inan,masc sing,ablt
+ДЕКАБРЕ	NOUN,inan,masc sing,loct
+ДЕКАБРИ	NOUN,inan,masc plur,nomn
+ДЕКАБРЕЙ	NOUN,inan,masc plur,gent
+ДЕКАБРЯМ	NOUN,inan,masc plur,datv
+ДЕКАБРИ	NOUN,inan,masc plur,accs
+ДЕКАБРЯМИ	NOUN,inan,masc plur,ablt
+ДЕКАБРЯХ	NOUN,inan,masc plur,loct

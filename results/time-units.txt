@@ -1,0 +1,131 @@
+318156
+СЕКУНДА	NOUN,inan,femn sing,nomn
+СЕКУНДЫ	NOUN,inan,femn sing,gent
+СЕКУНДЕ	NOUN,inan,femn sing,datv
+СЕКУНДУ	NOUN,inan,femn sing,accs
+СЕКУНДОЙ	NOUN,inan,femn sing,ablt
+СЕКУНДОЮ	NOUN,inan,femn sing,ablt,V-oy
+СЕКУНДЕ	NOUN,inan,femn sing,loct
+СЕКУНДЫ	NOUN,inan,femn plur,nomn
+СЕКУНД	NOUN,inan,femn plur,gent
+СЕКУНДАМ	NOUN,inan,femn plur,datv
+СЕКУНДЫ	NOUN,inan,femn plur,accs
+СЕКУНДАМИ	NOUN,inan,femn plur,ablt
+СЕКУНДАХ	NOUN,inan,femn plur,loct
+
+160750
+МИНУТА	NOUN,inan,femn sing,nomn
+МИНУТЫ	NOUN,inan,femn sing,gent
+МИНУТЕ	NOUN,inan,femn sing,datv
+МИНУТУ	NOUN,inan,femn sing,accs
+МИНУТОЙ	NOUN,inan,femn sing,ablt
+МИНУТОЮ	NOUN,inan,femn sing,ablt,V-oy
+МИНУТЕ	NOUN,inan,femn sing,loct
+МИНУТЫ	NOUN,inan,femn plur,nomn
+МИНУТ	NOUN,inan,femn plur,gent
+МИНУТАМ	NOUN,inan,femn plur,datv
+МИНУТЫ	NOUN,inan,femn plur,accs
+МИНУТАМИ	NOUN,inan,femn plur,ablt
+МИНУТАХ	NOUN,inan,femn plur,loct
+
+374736
+ЧАС	NOUN,inan,masc sing,nomn
+ЧАСА	NOUN,inan,masc sing,gen1
+ЧАСУ	NOUN,inan,masc sing,gen2
+ЧАСУ	NOUN,inan,masc sing,datv
+ЧАС	NOUN,inan,masc sing,accs
+ЧАСОМ	NOUN,inan,masc sing,ablt
+ЧАСЕ	NOUN,inan,masc sing,loc1
+ЧАСУ	NOUN,inan,masc sing,loc2
+ЧАСЫ	NOUN,inan,masc plur,nomn
+ЧАСОВ	NOUN,inan,masc plur,gent
+ЧАСАМ	NOUN,inan,masc plur,datv
+ЧАСЫ	NOUN,inan,masc plur,accs
+ЧАСАМИ	NOUN,inan,masc plur,ablt
+ЧАСАХ	NOUN,inan,masc plur,loct
+
+81427
+ДЕНЬ	NOUN,inan,masc sing,nomn
+ДНЯ	NOUN,inan,masc sing,gent
+ДНЮ	NOUN,inan,masc sing,datv
+ДЕНЬ	NOUN,inan,masc sing,accs
+ДНЁМ	NOUN,inan,masc sing,ablt
+ДНЕ	NOUN,inan,masc sing,loc1
+ДНИ	NOUN,inan,masc plur,nomn
+ДНЕЙ	NOUN,inan,masc plur,gent
+ДНЯМ	NOUN,inan,masc plur,datv
+ДНИ	NOUN,inan,masc plur,accs
+ДНЯМИ	NOUN,inan,masc plur,ablt
+ДНЯХ	NOUN,inan,masc plur,loct
+ДНЮ	NOUN,inan,masc sing,loc2
+
+340123
+СУТКИ	NOUN,inan,GNdr,Pltm plur,nomn
+СУТОК	NOUN,inan,GNdr,Pltm plur,gent
+СУТКАМ	NOUN,inan,GNdr,Pltm plur,datv
+СУТКИ	NOUN,inan,GNdr,Pltm plur,accs
+СУТКАМИ	NOUN,inan,GNdr,Pltm plur,ablt
+СУТКАХ	NOUN,inan,GNdr,Pltm plur,loct
+
+180718
+НЕДЕЛЯ	NOUN,inan,femn sing,nomn
+НЕДЕЛИ	NOUN,inan,femn sing,gent
+НЕДЕЛЕ	NOUN,inan,femn sing,datv
+НЕДЕЛЮ	NOUN,inan,femn sing,accs
+НЕДЕЛЕЙ	NOUN,inan,femn sing,ablt
+НЕДЕЛЕЮ	NOUN,inan,femn sing,ablt,V-ey
+НЕДЕЛЕ	NOUN,inan,femn sing,loct
+НЕДЕЛИ	NOUN,inan,femn plur,nomn
+НЕДЕЛЬ	NOUN,inan,femn plur,gent
+НЕДЕЛЯМ	NOUN,inan,femn plur,datv
+НЕДЕЛИ	NOUN,inan,femn plur,accs
+НЕДЕЛЯМИ	NOUN,inan,femn plur,ablt
+НЕДЕЛЯХ	NOUN,inan,femn plur,loct
+
+158841
+МЕСЯЦ	NOUN,inan,masc sing,nomn
+МЕСЯЦА	NOUN,inan,masc sing,gent
+МЕСЯЦУ	NOUN,inan,masc sing,datv
+МЕСЯЦ	NOUN,inan,masc sing,accs
+МЕСЯЦЕМ	NOUN,inan,masc sing,ablt
+МЕСЯЦЕ	NOUN,inan,masc sing,loct
+МЕСЯЦЫ	NOUN,inan,masc plur,nomn
+МЕСЯЦЕВ	NOUN,inan,masc plur,gent
+МЕСЯЦАМ	NOUN,inan,masc plur,datv
+МЕСЯЦЫ	NOUN,inan,masc plur,accs
+МЕСЯЦАМИ	NOUN,inan,masc plur,ablt
+МЕСЯЦАХ	NOUN,inan,masc plur,loct
+
+132007
+КВАРТАЛ	NOUN,inan,masc sing,nomn
+КВАРТАЛА	NOUN,inan,masc sing,gent
+КВАРТАЛУ	NOUN,inan,masc sing,datv
+КВАРТАЛ	NOUN,inan,masc sing,accs
+КВАРТАЛОМ	NOUN,inan,masc sing,ablt
+КВАРТАЛЕ	NOUN,inan,masc sing,loct
+КВАРТАЛЫ	NOUN,inan,masc plur,nomn
+КВАРТАЛОВ	NOUN,inan,masc plur,gent
+КВАРТАЛАМ	NOUN,inan,masc plur,datv
+КВАРТАЛЫ	NOUN,inan,masc plur,accs
+КВАРТАЛАМИ	NOUN,inan,masc plur,ablt
+КВАРТАЛАХ	NOUN,inan,masc plur,loct
+
+72149
+ГОД	NOUN,inan,masc sing,nomn
+ГОДА	NOUN,inan,masc sing,gen1
+ГОДУ	NOUN,inan,masc sing,datv
+ГОД	NOUN,inan,masc sing,accs
+ГОДОМ	NOUN,inan,masc sing,ablt
+ГОДЕ	NOUN,inan,masc sing,loc1
+ГОДУ	NOUN,inan,masc sing,loc2
+ГОДА	NOUN,inan,masc plur,nomn,Infr
+ГОДЫ	NOUN,inan,masc plur,nomn
+ЛЕТА	NOUN,inan,masc plur,nomn
+ГОДОВ	NOUN,inan,masc plur,gent
+ЛЕТ	NOUN,inan,masc plur,gent
+ГОДАМ	NOUN,inan,masc plur,datv
+ГОДА	NOUN,inan,masc plur,accs,Infr
+ГОДЫ	NOUN,inan,masc plur,accs
+ГОДАМИ	NOUN,inan,masc plur,ablt
+ГОДАХ	NOUN,inan,masc plur,loct
+ГОДУ	NOUN,inan,masc sing,gen2
